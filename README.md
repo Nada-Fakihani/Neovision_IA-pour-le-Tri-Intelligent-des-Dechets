@@ -50,7 +50,7 @@ Le modèle est construit avec plusieurs couches convolutives :
 
 L’optimisation du modèle est réalisée avec :
 - **Fonction de perte** : categorical cross-entropy.
-- **Optimiseur** : Adam avec un taux d’apprentissage de **0.001**.
+- **Optimiseur** : Adam avec un taux d’apprentissage.
 - **50 époques d’entraînement** avec batch de **250 images**.
   
 
