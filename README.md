@@ -3,13 +3,12 @@
 ## 📖 Présentation du Projet
 L’augmentation des déchets et les défis liés au recyclage nécessitent des solutions innovantes. Ce projet repose sur **l’intelligence artificielle** et les **réseaux de neurones convolutifs (CNN)** pour **classer automatiquement les déchets** à partir d’images.
 
-📌 **Objectif** : Développer un modèle IA permettant de **classifier les déchets** en plusieurs catégories avec **85 % de précision** et un **temps d’inférence de 200 ms/image**.
+📌 **Objectif** : Développer un modèle IA permettant de **classifier les déchets** en plusieurs catégories avec **85 % de précision** et un **temps d’inférence optimal**.
 
 ## 🚀 Fonctionnalités Clés
 ✅ **Classification automatique des déchets** grâce à un modèle CNN  
 ✅ **85% de précision** sur les données de test  
 ✅ **Temps d’inférence rapide** 
-
 ✅ **Techniques avancées de Data Augmentation** pour améliorer les performances  
 ✅ **Utilisation de TensorFlow et Keras** pour l’entraînement du modèle  
 
