@@ -58,5 +58,9 @@ L’optimisation du modèle est réalisée avec :
 - **Deep Learning** (CNN, Data Augmentation)
 - **Jupyter Notebook** pour l’expérimentation
 
-## 📧 Contact
-Si vous avez des questions ou suggestions, n’hésitez pas à me contacter via mon profil GitHub.
+## 📧 Contact & Contributions
+Si vous avez des questions ou souhaitez discuter du projet :
+- **📩 Email** : nada.fakihani@gmail.com
+- **🔗 LinkedIn** : [Nada Fakihani](https://www.linkedin.com/in/nadafakihani/)
+
+📌 **Contributions bienvenues** ! Feel free to submit suggestions.
