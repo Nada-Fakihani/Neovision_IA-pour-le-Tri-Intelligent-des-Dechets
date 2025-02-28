@@ -58,6 +58,15 @@ L’optimisation du modèle est réalisée avec :
 - **Deep Learning** (CNN, Data Augmentation)
 - **Jupyter Notebook** pour l’expérimentation
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-yellow?logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikitlearn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue?logo=jupyter&logoColor=white)
+
+
 ## 📧 Contact & Contributions
 Si vous avez des questions ou souhaitez discuter du projet :
 - **📩 Email** : nada.fakihani@gmail.com
