@@ -33,15 +33,18 @@ Chaque catégorie de déchets est augmentée de manière dynamique afin d’équ
 
 ## 🏗️ Construction du Modèle CNN
 Le modèle est construit avec plusieurs couches convolutives :
-- **4 couches de convolution** avec activation **ReLU** et **MaxPooling**.
-- **Batch Normalization** et **Dropout** pour régulariser l'entraînement.
-- **Dense Layer de 512 neurones** avant la classification finale.
-- **19 classes de sortie** (softmax).
+- **4 couches de convolution** avec **filtres 3x3**, activation **ReLU**, suivies de **MaxPooling 2x2**.
+- **Batch Normalization** et **Dropout (0.25)** pour éviter le surapprentissage.
+- **Une couche Flatten** pour transformer les caractéristiques en vecteur avant la classification.
+- **Une couche Dense de 512 neurones** avec activation ReLU.
+- **Dropout (0.5)** après la couche Dense pour améliorer la généralisation.
+- **19 classes de sortie** avec activation **softmax**.
 
 L’optimisation du modèle est réalisée avec :
 - **Fonction de perte** : categorical cross-entropy.
 - **Optimiseur** : Adam avec un taux d’apprentissage de **0.001**.
 - **50 époques d’entraînement** avec batch de **250 images**.
+- 
 
 ## 📊 Évaluation et Résultats
 - **Amélioration progressive de la précision** au fil des époques.
