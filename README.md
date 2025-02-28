@@ -44,7 +44,7 @@ L’optimisation du modèle est réalisée avec :
 - **Fonction de perte** : categorical cross-entropy.
 - **Optimiseur** : Adam avec un taux d’apprentissage de **0.001**.
 - **50 époques d’entraînement** avec batch de **250 images**.
-- 
+  
 
 ## 📊 Évaluation et Résultats
 - **Amélioration progressive de la précision** au fil des époques.
