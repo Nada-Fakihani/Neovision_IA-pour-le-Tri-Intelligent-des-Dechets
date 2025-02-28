@@ -9,6 +9,7 @@ L’augmentation des déchets et les défis liés au recyclage nécessitent des 
 ✅ **Classification automatique des déchets** grâce à un modèle CNN  
 ✅ **85% de précision** sur les données de test  
 ✅ **Temps d’inférence rapide** 
+
 ✅ **Techniques avancées de Data Augmentation** pour améliorer les performances  
 ✅ **Utilisation de TensorFlow et Keras** pour l’entraînement du modèle  
 
