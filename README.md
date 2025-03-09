@@ -1,4 +1,4 @@
-# 🗑️ Neovision - Classification des Déchets avec l'IA
+# 🗑️ Neovision - Le Recyclage avec l'IA
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow&logoColor=white)
